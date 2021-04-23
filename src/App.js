@@ -43,6 +43,7 @@ export default class todos extends Component {
                             <th scope="col">Id</th>
                             <th scope="col">Title</th>
                             <th scope="col">Action</th>
+                            <th scope="col">Branch</th>
                         </tr>
                     </thead>
                     <tbody>
